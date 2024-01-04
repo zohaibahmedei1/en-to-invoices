@@ -1,0 +1,2 @@
+External ID,Payee Internal ID,Payee Name,Account,Account Internal ID,Date,Subsidiary,Bill External ID,Bill amount
+TEST-B-PAY-7988,16142,Sidney Borenstein & Co,2110 Accounts Payable : Trade Payables,427,1/5/2017,Parent Company,ONHO-Bill-5785,630
